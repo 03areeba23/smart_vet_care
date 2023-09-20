@@ -9,3 +9,7 @@ Key Facilities in the Smart Vet Care Application:
 •	AI Chatbot: Real-time communication with customers, providing immediate assistance.
 •	Active Doctors: Displaying a list of active doctors with whom clients can chat and book appointments.
 •	Nearby Veterinary Clinics: Utilizing user location data to showcase nearby veterinary clinics
+
+-ScreenShots
+
+![image](https://github.com/03areeba23/smart_vet_care/assets/107947371/3eb029fc-b13a-4dc6-ad7e-84fee0e83a69)
