@@ -12,5 +12,9 @@ Key Facilities in the Smart Vet Care Application:
 
 -ScreenShots
 
+SplashScreen                                                                                                              Login Screen
 ![image](https://github.com/03areeba23/smart_vet_care/assets/107947371/3eb029fc-b13a-4dc6-ad7e-84fee0e83a69)                                                                           ![image](https://github.com/03areeba23/smart_vet_care/assets/107947371/1fd37947-2159-459a-bb6a-111d31d72a30)
+
+
+![image](https://github.com/03areeba23/smart_vet_care/assets/107947371/c7607628-d117-45be-93ee-765cc83eec6c)                                                                           ![image](https://github.com/03areeba23/smart_vet_care/assets/107947371/4b5a75be-39d1-4551-94ff-b11467d73ac8)
 
