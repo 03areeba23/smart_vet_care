@@ -22,3 +22,6 @@ Key Facilities in the Smart Vet Care Application:
 ![image](https://github.com/03areeba23/smart_vet_care/assets/107947371/4b5a75be-39d1-4551-94ff-b11467d73ac8)
 
 ![image](https://github.com/03areeba23/smart_vet_care/assets/107947371/313b7f73-8aec-4a35-886d-21a973ab0eed)
+
+![image](https://github.com/03areeba23/smart_vet_care/assets/107947371/0aede5d1-b4ea-4a44-b30c-c749c8f69e1e)
+
